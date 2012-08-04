@@ -52,7 +52,7 @@ namespace reqdream4science
 			
 			while(!found)
 			{
-				// if column and column + 1 are blank, then we found en empty spot:
+				// if column and column + 1 are blank, then we found An empty spot:
 				found = string.IsNullOrWhiteSpace(
 					(sheet.Cells[9, column].Value == null ? string.Empty :
 					sheet.Cells[9, column].Value.ToString()))
