@@ -1,0 +1,6 @@
+X:\Users\Richard\Documents\Projects\Reddit-related\reqdream4science\reqdream4science\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\Users\Richard\Documents\Projects\Reddit-related\reqdream4science\reqdream4science\bin\Debug\reqdream4science.exe
+X:\Users\Richard\Documents\Projects\Reddit-related\reqdream4science\reqdream4science\bin\Debug\reqdream4science.pdb
+X:\Users\Richard\Documents\Projects\Reddit-related\reqdream4science\reqdream4science\bin\Debug\ExcelLibrary.dll
+X:\Users\Richard\Documents\Projects\Reddit-related\reqdream4science\reqdream4science\obj\x86\Debug\reqdream4science.exe
+X:\Users\Richard\Documents\Projects\Reddit-related\reqdream4science\reqdream4science\obj\x86\Debug\reqdream4science.pdb
